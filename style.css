@@ -17,9 +17,13 @@ h1 {
 }
 
 table {
-  background-color: white;
-  border: 5px, dashed;
+  text-align: left;
+  background-color: green;
+  border: 5px, dashed,
+}
 
+.player1 {
+  color: blue;
 }
 
 </style>
