@@ -16,14 +16,26 @@ h1 {
   color: blue;
 }
 
-table {
+
+.race_track {
   text-align: left;
   background-color: green;
   border: 5px, dashed,
 }
 
-.player1 {
-  color: blue;
+.race_track td {
+  background-color: red;
+  height: 90px;
+  width: 64px;
+  text-align: center;
 }
+
+td#car1 {
+  background-color: blue;
+}
+td#car2 {
+  background-color: yellow;
+}
+
 
 </style>
