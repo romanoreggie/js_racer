@@ -7,4 +7,17 @@
 
 
 
-alert("up and running");
+//alert("up and running");
+
+
+
+
+
+
+
+//right arrow moves racer 1 one space per keydown
+
+
+
+
+//d key moves racer 2 one space per keydown
